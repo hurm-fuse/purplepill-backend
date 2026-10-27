@@ -1,0 +1,1 @@
+in this lesson we are going to learn about how to serve static files to serve on backend server using express and Installing Pug template engine

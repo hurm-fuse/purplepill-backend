@@ -1,0 +1,17 @@
+{
+  "name": "l-10",
+  "version": "1.0.0",
+  "description": "in this lesson we are going to learn about how to serve static files to serve on backend server using express and Installing Pug template engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0",
+    "pug": "^3.0.4"
+  }
+}
